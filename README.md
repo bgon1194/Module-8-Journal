@@ -1,1 +1,5 @@
 # Module-8-Journal
+
+
+
+  The Gaming Room was a mobile game dev that wanted to develope a web based version of one of their games. I believe regarding this particular documentation, I did well in figuring out what my client needed as well as some issues that may arise. Using the UML diagram was very helpful when developing code and being able to see how the code is supposed to run. I would honestly revise the whole document if I could and allow myself, some how, more hours to dedicate to the whole document. I would improve it by taking my time and letting myself fully understand what is being asked of me to do. In order to interpret what the client needed and be able to implement them into my design I had to read what the client ultimately wanted, be able to see what tools I had at my disposale and be able to address some concersn I may have with the tools given. IT is important to consider what the user needs as they are ultimately the end all be all for the product or software. They will let the devoeplers know what is working and what can be improved so their feedback is always the most crucial. 
